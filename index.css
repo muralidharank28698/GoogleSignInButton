@@ -1,0 +1,21 @@
+body{
+    background-color:azure;
+}
+
+button{
+    text-decoration: none;
+    font-size: 25px;
+    border: 2px solid green;
+    margin-top: 20px;
+    border-radius: 10px;
+    color: saddlebrown;
+    padding: 6px;
+}
+
+h1{
+    border: 2px solid red;
+    border-radius: 8px;
+    color: royalblue;
+    text-align: center;
+    padding: 4px;
+}
